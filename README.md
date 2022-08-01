@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<p align="left">I am a curious full-stack developer who has professional experience in project basis job and now really wants to expand my knowledge and take on extreme challenges to be more comfortable in Web development through a job</p>
+<p align="left">I am a curious full-stack developer who has professional experience in project basis job and now really wants to expand my knowledge and take on extreme challenges to be more comfortable in web development through a job</p>
 - 🔭 I’m currently working on [John Baggen](http://john-pink.vercel.app/)
 
 - 🌱 I’m currently learning **Framer motion**
