@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <p align="left">I am a curious full-stack developer who has professional experience in project basis job and now really wants to expand my knowledge and take on extreme challenges to be more comfortable in web development through a job</p>
-- 🔭 I’m currently working on [John Baggen](http://john-pink.vercel.app/)
+- 🔭 I’m currently working on [Routine Manager](https://routine-app-theta.vercel.app/)
 
 - 🌱 I’m currently learning **Framer motion**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naimurrhman53@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WKRO1KWgteJaALwgcv3Q7u59dq-BMkUX/view](https://drive.google.com/file/d/1WKRO1KWgteJaALwgcv3Q7u59dq-BMkUX/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WKRO1KWgteJaALwgcv3Q7u59dq-BMkUX/view)
 
 - ⚡ Fun fact **A curious learner about making robots started loving programming and became a Full Stack Developer**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur53&label=Profile%20views&color=0e75b6&style=flat" alt="naimur53" /> </p>
