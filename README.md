@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <p align="left">I am a curious full-stack developer who has professional experience in project basis job and now really wants to expand my knowledge and take on extreme challenges to be more comfortable in web development through a job</p>
-- 🔭 I’m currently working on [https://routine-app-theta.vercel.app/](Routine Manager)
+- 🔭 I’m currently working on [Routine](https://routine-app-theta.vercel.app/)
 
 - 🌱 I’m currently learning **Framer motion**
 
-- 👨‍💻 All of my projects are available at [http://naimurrhman.com/](naimurrhman.com)
+- 👨‍💻 All of my projects are available at [naimurrhman.com](http://naimurrhman.com/)
 
 - 💬 Ask me about **Javascript, React, Next js, Mongodb, Express**
 
