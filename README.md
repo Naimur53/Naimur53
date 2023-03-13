@@ -1,9 +1,49 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<p align="left">I am a curious full-stack developer who has professional experience in project basis job and now really wants to expand my knowledge and take on extreme challenges to be more comfortable in web development through a job</p>
-- 🔭 I’m currently working on [Routine](https://routine-app-theta.vercel.app/)
+<img src='https://i.ibb.co/bQpCZ2r/1676490741805.jpg'/>
 
-- 🌱 I’m currently learning **Framer motion**
+ # Introduction
+
+Hello, I'm a full-stack developer with expertise in React and Next.js. I've built over 20 projects in these technologies and have won multiple contests for front-end development. I also completed a full-stack course where I ranked in the top 5% of students. I enjoy helping others build complex systems and consider myself a strong team player, having led a few projects as team leader.
+
+## My Skills
+
+- React
+- Next.js
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+## My Projects
+
+Here are a few projects I've built recently:
+
+- [Routine Manager](https://routine-app-theta.vercel.app/)
+- [Service AtoZ](https://service-assistant-a2z.web.app/)
+- [Drone House](https://assignment-12-43fb2.web.app/)
+- [Chircut (Messenger)](https://my-messenger-f95d0.web.app/)
+- [Const Group (Social Media)](https://const-group.web.app/)
+- [Travel Go (Blog site)](https://end-game-72c10.web.app/)
+- [Photographer](https://photogrpher-portfolio.vercel.app/)
+
+## Contact Me
+
+If you have any questions or would like to discuss a potential project, feel free to reach out to me at naimurrhman53@gmail.com. I'm always happy to chat!
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naimur-rahman-a56b83216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naimur-rahman-a56b83216/" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/naimur.rahman.39501789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/naimur.rahman.39501789" height="30" width="40" /></a>
+</p>
+
+## Status And Info
+
+<!-- - 🔭 I’m currently working on [Routine](https://routine-app-theta.vercel.app/) -->
+
+- 🌱 I’m currently learning **Framer motion, Redux**
 
 - 👨‍💻 All of my projects are available at [naimurrhman.com](http://naimurrhman.com/)
 
@@ -11,15 +51,11 @@
 
 - 📫 How to reach me **naimurrhman53@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WKRO1KWgteJaALwgcv3Q7u59dq-BMkUX/view)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1WKRO1KWgteJaALwgcv3Q7u59dq-BMkUX/view)**
 
 - ⚡ Fun fact **A curious learner about making robots started loving programming and became a Full Stack Developer**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur53&label=Profile%20views&color=0e75b6&style=flat" alt="naimur53" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naimur-rahman-a56b83216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naimur-rahman-a56b83216/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/naimur.rahman.39501789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/naimur.rahman.39501789" height="30" width="40" /></a>
-</p>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
