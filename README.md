@@ -36,7 +36,7 @@ Here are a few projects I've built recently:
 <!-- Table 2 -->
 | Project 3: Routine Manager                 | Project 4: John Baggen                           |
 |-------------------------------------------|-------------------------------------------------|
-| ![Screenshot](https://i.ibb.co/8c5fZqT/routine-banner.jpg) | ![Screenshot](https://i.ibb.co/x7BxtmQ/john-banner.jpg) |
+| ![Screenshot](https://i.ibb.co/YNKKYbG/routine-banner2-1.jpg) | ![Screenshot](https://i.ibb.co/x7BxtmQ/john-banner.jpg) |
 | A routine management site where students and teachers can access their schedules, and classes will be shown based on the selected routine. | A photographer's portfolio site with a gallery, blog posts, and a dashboard to track user interactions. |
 | **Technology:** Material Ui, Rechart, React-visibility-sensor, Toastify, React, Firebase, Axios, React Hook Form, Mongodb, Express, Socket.io | **Technology:** Material-UI, Next.js, Redux toolkit, Firebase Auth, React Parallax, Node.js, Mongoose, Express |
 | [Live Site](https://routine-app-theta.vercel.app/) \| [GitHub Repository](https://github.com/Naimur53/routine_app) | [Live Site](https://photogrpher-portfolio.vercel.app/) \| [GitHub Repository](https://github.com/Naimur53/photogrpher-portfolio) |
