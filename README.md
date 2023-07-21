@@ -3,8 +3,11 @@
 <img src='https://i.ibb.co/bQpCZ2r/1676490741805.jpg'/>
 
  # Introduction
+🚀 With a passion for web application development spanning over 2.5 years, I'm an award-winning front-end developer and a top graduate in two web development courses. Committed to delivering excellence, I actively contribute to project success.
 
-Hello, I'm a full-stack developer with expertise in React and Next.js. I've built over 20 projects in these technologies and have won multiple contests for front-end development. I also completed a full-stack course where I ranked in the top 5% of students. I enjoy helping others build complex systems and consider myself a strong team player, having led a few projects as team leader.
+👨‍💻 My journey includes crafting captivating photographer portfolios and multifunctional service finder websites, backed by expertise in HTML, CSS, JavaScript, React, Next.js, Node.js, and more. I'm always eager to explore new technologies and implement dynamic features like auto-answer systems and real-time chat functionalities.
+
+📚 Currently pursuing a Diploma in Computer Technology with an expected graduation in December 2023, I aim to continuously refine my skills and create innovative solutions. 
 
 ## My Skills
 
@@ -20,15 +23,23 @@ Hello, I'm a full-stack developer with expertise in React and Next.js. I've buil
 
 ## My Projects
 
-Here are a few projects I've built recently:
+Here are a few projects I've built recently: 
+ 
+<!-- Table 1 -->
+| Project 1: Service AtoZ                     | Project 2: Drone House                            |
+|--------------------------------------------|--------------------------------------------------|
+| ![Screenshot](https://i.ibb.co/LgThwPZ/service-banner.jpg) | ![Screenshot](https://i.ibb.co/jrx2hwp/drone-house-banner.jpg) |
+| A service finder website where users can offer or avail services. The real-time chat system facilitates smooth communication about services. | A drone buying website enabling owners to manage products, track 30-day growth through charts, and allowing users to purchase drones and check order statuses. |
+| **Technology:** React, Redux Toolkit, Socket.io, NodeJS, MongoDB, Express, Firebase Authentication, Material UI, React-hook-form, Node mailer, Stripe Payment | **Technology:** React, Material Ui, Rechart, Swiper, React-visibility-sensor, Toastify, Firebase, Axios, React-hook-form, Stripe, Mongodb, Express |
+| [Live Site](https://service-assistant-a2z.web.app/) \| [GitHub Repository](https://github.com/Iasir-Arafat-riaz/Service-Assistant-TeamProject-Frontend) | [Live Site](https://assignment-12-43fb2.web.app/home) \| [GitHub Repository](https://github.com/Naimur53/drone-house) |
 
-- [Routine Manager](https://routine-app-theta.vercel.app/)
-- [Service AtoZ](https://service-assistant-a2z.web.app/)
-- [Drone House](https://assignment-12-43fb2.web.app/)
-- [Chircut (Messenger)](https://my-messenger-f95d0.web.app/)
-- [Const Group (Social Media)](https://const-group.web.app/)
-- [Travel Go (Blog site)](https://end-game-72c10.web.app/)
-- [Photographer](https://photogrpher-portfolio.vercel.app/)
+<!-- Table 2 -->
+| Project 3: Routine Manager                 | Project 4: John Baggen                           |
+|-------------------------------------------|-------------------------------------------------|
+| ![Screenshot](https://i.ibb.co/8c5fZqT/routine-banner.jpg) | ![Screenshot](https://i.ibb.co/x7BxtmQ/john-banner.jpg) |
+| A routine management site where students and teachers can access their schedules, and classes will be shown based on the selected routine. | A photographer's portfolio site with a gallery, blog posts, and a dashboard to track user interactions. |
+| **Technology:** Material Ui, Rechart, React-visibility-sensor, Toastify, React, Firebase, Axios, React Hook Form, Mongodb, Express, Socket.io | **Technology:** Material-UI, Next.js, Redux toolkit, Firebase Auth, React Parallax, Node.js, Mongoose, Express |
+| [Live Site](https://routine-app-theta.vercel.app/) \| [GitHub Repository](https://github.com/Naimur53/routine_app) | [Live Site](https://photogrpher-portfolio.vercel.app/) \| [GitHub Repository](https://github.com/Naimur53/photogrpher-portfolio) |
 
 ## Contact Me
 
