@@ -91,10 +91,6 @@ Here are a few projects I've built recently:
    </p>
   
 ## GitHub Stats and Streak
-
-<p float="left">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimur53" alt="GitHub Streak Stats" width="48%" /> -->
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur53&theme=dark" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=naimur53&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+<p align="center">
+  <img src="https://github-insights-59wy.onrender.com/api/insight?username=naimur53&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
-
