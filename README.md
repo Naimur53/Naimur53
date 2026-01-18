@@ -92,5 +92,5 @@ Here are a few projects I've built recently:
   
 ## GitHub Stats and Streak
 <p align="center">
-  <img src="https://github-insights-59wy.onrender.com/api/insight?username=naimur53&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=naimur53&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
