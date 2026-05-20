@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh!</h3>
 <img src='https://i.ibb.co/bQpCZ2r/1676490741805.jpg'/>
 
  # Introduction
