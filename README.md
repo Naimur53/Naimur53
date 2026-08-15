@@ -7,7 +7,7 @@
 
 👨‍💻 My journey includes crafting captivating photographer portfolios and multifunctional service finder websites, backed by expertise in HTML, CSS, JavaScript, React, Next.js, Node.js, and more. I'm always eager to explore new technologies and implement dynamic features like auto-answer systems and real-time chat functionalities.
 
-📚 Currently pursuing a Diploma in Computer Technology with an expected graduation in December 2023, I aim to continuously refine my skills and create innovative solutions. 
+📚 Currently pursuing a Diploma in Computer Technology (cmt) with an expected graduation in December 2023, I aim to continuously refine my skills and create innovative solutions. 
  
 ## My Projects
 
